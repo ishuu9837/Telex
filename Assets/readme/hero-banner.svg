@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="306" viewBox="0 0 1000 306" role="img" aria-labelledby="title desc">
+<title id="title">Telex for macOS — Keep your eyes up. Find your flow.</title><desc id="desc">Telex for macOS. Electric cobalt, deep carbon and studio white.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090D16"/><stop offset="1" stop-color="#101B30"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#0066FF" stop-opacity=".32"/><stop offset="1" stop-color="#0066FF" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="14" cy="14" r="1" fill="#60A5FA" opacity=".1"/></pattern>
+</defs>
+<rect width="1000" height="306" rx="18" fill="url(#bg)"/>
+<ellipse cx="160" cy="20" rx="450" ry="240" fill="url(#glow)"/>
+<rect width="1000" height="306" rx="18" fill="url(#grid)"/>
+<rect x="1" y="1" width="998" height="304" rx="17" fill="none" stroke="#315080" stroke-opacity=".6"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"><g transform="translate(58 55)"><rect width="170" height="170" rx="38" fill="#fff"/>
+<circle cx="85" cy="36" r="11" fill="#090D16"/>
+<path d="M32 138V54L48 44 81 71V96L51 72V124Z M138 138V54L122 44 89 71V96L119 72V124Z" fill="#090D16"/>
+<path d="M54 78 85 103 116 78V97L97 112 128 138H104L85 122 66 138H42L73 112 54 97Z" fill="#0066FF"/></g><text x="272" y="68" font-size="12" fill="#60A5FA" font-weight="700" letter-spacing="2">NATIVE MACOS TELEPROMPTER</text><text x="268" y="130" font-size="55" fill="#F8FAFC" font-weight="800" >Telex for macOS</text><text x="272" y="171" font-size="25" fill="#D7E5FF" font-weight="500" >Keep your eyes up. Find your flow.</text><text x="272" y="210" font-size="17" fill="#A5B4CC" font-weight="400" >Local scripts. Camera-adjacent reading. Your choice of pace.</text><rect x="272" y="241" width="148" height="30" rx="7" fill="#0A1730" stroke="#315080"/><text x="346" y="261" font-size="13" fill="#B9D6FF" font-weight="600" text-anchor="middle">macOS 14+</text><rect x="442" y="241" width="148" height="30" rx="7" fill="#0A1730" stroke="#315080"/><text x="516" y="261" font-size="13" fill="#B9D6FF" font-weight="600" text-anchor="middle">Swift 6</text><rect x="612" y="241" width="148" height="30" rx="7" fill="#0A1730" stroke="#315080"/><text x="686" y="261" font-size="13" fill="#B9D6FF" font-weight="600" text-anchor="middle">Universal</text><rect x="782" y="241" width="148" height="30" rx="7" fill="#0A1730" stroke="#315080"/><text x="856" y="261" font-size="13" fill="#B9D6FF" font-weight="600" text-anchor="middle">MIT licensed</text></g></svg>
