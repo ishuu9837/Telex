@@ -20,3 +20,6 @@ BuildProof/*.tar.gz
 !Website/telex/dist/**
 Website/telex/dist/downloads/
 Website/telex/dist/layout-check.html
+
+# The reusable cue skill will live in its own repository.
+/skills/telex-cues/
