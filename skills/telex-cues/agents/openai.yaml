@@ -1,0 +1,4 @@
+interface:
+  display_name: "Telex Cues"
+  short_description: "Turn user text into Telex teleprompter cues"
+  default_prompt: "Use $telex-cues to convert my text into an import-ready Telex script with navigable cues."

@@ -1,0 +1,22 @@
+.build/
+.swiftpm/
+dist/
+.DS_Store
+
+# Local test artifacts, editor state, generated packages and credentials.
+BuildProof/*.log
+BuildProof/*.xcresult/
+BuildProof/*.zip
+BuildProof/*.tar.gz
+**/xcuserdata/
+**/node_modules/
+**/.env
+**/.env.*
+!**/.env.example
+**/.openai/local/
+**/.openai/*.tar.gz
+# The website is buildless: its dist HTML/CSS/JS are maintained source.
+!Website/telex/dist/
+!Website/telex/dist/**
+Website/telex/dist/downloads/
+Website/telex/dist/layout-check.html
